@@ -1,0 +1,21 @@
+/*input[type="radio"]:checked {
+    accent-color: #9fa6b2; // Replace with your desired color
+    background-color: #9fa6b2;
+    border-color: #9fa6b2;
+  }
+  input[type="radio"]:active {
+    accent-color: #9fa6b2; // Replace with your desired color
+    background-color: #9fa6b2;
+    border-color: #9fa6b2;
+  }
+*/
+@media(max-width:768px){
+  .device-margin{
+    margin-inline: 12.5vw;
+  }
+}
+@media(min-width:769px){
+  .device-margin{
+    margin-inline: 25vw;
+  }
+}
